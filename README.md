@@ -2,7 +2,7 @@
 
 # Basic SQL Project Summary
 
-In this project, I'm gonna practice querying data using basic SQL skills such as DQL, Aggregate Functions, and Converting Data Types. I got the data from CFPB public complaint database available at <a href="https://console.cloud.google.com/marketplace/product/cfpb/complaint-database">Here</a>.
+In this project, I'm gonna practice querying data using basic SQL skills such as **DQL, Aggregate Functions, and Converting Data Types**. I got the data from CFPB public complaint database available at <a href="https://console.cloud.google.com/marketplace/product/cfpb/complaint-database">Here</a>.
 
 Consumer Financial Protection Bureau (CFPB) is the United States government agency responsible for consumer protection in the financial sector. 
 The dataset contains  collection of complaints about consumer financial products and services that CFPB sent to companies for response.
@@ -69,8 +69,6 @@ GROUP BY year;
 </details>
 
 ## Step 3
-
-### Instructions
 
 SELECT the total count FROM the complain_database table HAVING the total complaint greater than 200000.
 
